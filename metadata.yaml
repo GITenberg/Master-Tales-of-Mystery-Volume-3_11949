@@ -1,0 +1,29 @@
+_repo: Master-Tales-of-Mystery-Volume-3_11949
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Reynolds, Francis J. (Francis Joseph)
+    birthdate: 1867
+    deathdate: 1937
+    gutenberg_agent_id: '4145'
+    url: http://www.gutenberg.org/2009/agents/4145
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11949'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+tableOfContents: 'A.B. Reeve: The poisoned pen. The invisible ray. The silent bullet.
+  The deadly tube. The black hand. The steel door -- P.L. Ford: Great K. & A. train
+  robbery -- M. Pemberton: The risen dead -- G.B. McCutcheon: Cowardice court -- B.E.
+  Stevenson: The case of Mrs. Magnus. J. Ernest: The episode of the black casquette
+  -- Marjorie L.C. Pickthall: Cheap.'
+title: Master Tales of Mystery, Volume 3
+url: http://www.gutenberg.org/ebooks/11949
